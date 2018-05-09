@@ -1,3 +1,7 @@
 [submodule "CDS"]
 	path = CDS
 	url = https://github.com/simonis/CDS.git
+[submodule "HotspotIntrinsics"]
+	path = HotspotIntrinsics
+	url = https://github.com/simonis/HotspotIntrinsics
+	branch = GeeCon2018
